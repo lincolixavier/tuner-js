@@ -1,2 +1,3 @@
-# tuner-js
-A guitar tuner, using MediaStream Recording API
+# Tuner Js 🎸
+
+## A guitar tuner, using Web Audio API
